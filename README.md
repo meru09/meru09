@@ -1,5 +1,4 @@
 
-[README.md](https://github.com/user-attachments/files/33519460/README.md)
 <div align="center">
 
 # Hi, I'm Meriem ✦
